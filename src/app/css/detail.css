@@ -342,10 +342,10 @@
      margin-bottom:0px;
   }
 
-.product-meta-row {
-   gap:1.5vh
+  .product-meta-row{
+     gap:1.5vh;
 
-}
+   }
    
   .mobile-product-gallery {
     display: flex;
@@ -364,6 +364,7 @@
     display: block;
   }
 }
+
 
 
 
