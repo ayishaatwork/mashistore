@@ -288,12 +288,12 @@
 
 @media (max-width: 768px) {
 
-   .page-container{
+ .page-container{
       padding-top:0vh;
  
   .product-layout {
     grid-template-columns:1fr;
-    gap:2.5vh;
+    gap:2vh;
   }
 
   .product-media {
@@ -302,11 +302,11 @@
   }
 
  .product-details-sub{
-    gap:3vh
+    gap:2.5vh
  }
 
  .product-details-metasub{
-    gap:1.5vh
+    gap:1vh
  }
 
   .product-image {
@@ -315,14 +315,14 @@
   }
 
    .product-title, .product-price{
-    font-size:3.5vh
+    font-size:3vh
    }
 
    .color-text{
-   font-size:2vh;
+   font-size:1.5vh;
    }
    .color-badges{
-    gap:2.5vh;
+    gap:2.3vh;
    }
 
   .product-details {
@@ -357,6 +357,7 @@
     display: block;
   }
 }
+
 
 
 
