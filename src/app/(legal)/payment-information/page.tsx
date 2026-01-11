@@ -87,7 +87,7 @@ export default function PaymentPage() {
           </ul>
           </div>
           <div className={styles.block}>
-          <p>Please refer to our <span className={styles.block}>Shipping & Returns Policy</span> for detailed refund eligibility and timelines.</p>
+          <p>Please refer to our <span className={styles.bold}>Shipping & Returns Policy</span> for detailed refund eligibility and timelines.</p>
           </div>
         </div>
 
@@ -114,12 +114,13 @@ export default function PaymentPage() {
         <div className={styles.section}>
           <h2>Contact Us</h2>
           <p>For any questions regarding payments or billing, please contact us at:</p>
-          <p><span className={styles.bold}>Email:</span>mashiartstore.com</p>
+          <p><span className={styles.bold}>Email: </span>mashiartstore.com</p>
         </div>      
       </section>
     </>
   );
 }
+
 
 
 
