@@ -8,12 +8,12 @@
 }
 
 .contact-title {
-  font-size:5vh;
+  font-size:3vh;
   font-weight: 500;
 }
 
 .contact-right {
-  max-width:39vw;
+  max-width:40vw;
 }
 
 /* Intro text */
@@ -195,6 +195,7 @@
   color: #000;
 }
 }
+
 
 
 
