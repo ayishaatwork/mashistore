@@ -328,7 +328,7 @@
 
   .product-details {
     padding-right: 0;
-    gap:3.5vh;
+    gap:4vh;
     height:auto;
   }
   .product-description {
@@ -339,6 +339,7 @@
      width:100%;
      font-size:5vh;
      margin-left:0%;
+     margin-bottom:0px;
   }
    
   .mobile-product-gallery {
@@ -358,6 +359,7 @@
     display: block;
   }
 }
+
 
 
 
