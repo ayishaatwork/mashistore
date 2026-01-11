@@ -21,6 +21,9 @@
   font-weight: 400;
   line-height:1.1;
 }
+.titleColumn h1 span{
+  display:block;
+}
 
 /* RIGHT — CONTENT */
 .contentColumn {
@@ -87,6 +90,10 @@
     font-size:1.9rem;
   }
 
+  .titleColumn h1 span{
+    display:block;
+  }
+
   .contentColumn {
     max-width: 100%;
     margin-right:0px;
@@ -98,13 +105,13 @@
   margin-bottom:10px;
 }
   .section p{
-    font-size:1rem;
-    line-height:1.1rem;
+    font-size:0.9rem;
+    line-height:1rem;
   }
 
   .section ul{
-    font-size:1rem;
-    line-height:1.1rem;
+    font-size:0.9rem;
+    line-height:1rem;
   }
 
   .section h2 {
@@ -160,6 +167,7 @@
 .bold{
   font-weight:800;
 }
+
 
 
 
