@@ -19,12 +19,11 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   max-width:100%;
-  gap:3vh;
   align-items: flex-start;
 }
 
 .checkout-title {
-  font-size: 2.6rem;
+  font-size:6vh;
   font-weight: 500;
 }
 
@@ -201,6 +200,7 @@
     width:100%;
   }
 }
+
 
 
 
