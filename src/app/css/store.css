@@ -152,7 +152,11 @@
   .product-item:last-child {
      text-align: center;
 }
+  product-item:first-child {
+    text-align: center;
 }
+}
+
 
 
 
