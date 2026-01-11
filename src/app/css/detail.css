@@ -122,10 +122,9 @@
 .color-swatch {
   position: relative;
   display: inline-flex;
-  align-items:left;
-  justify-content: center;
-  min-width: 90px;
-  height: 40px;
+  align-items:flex-start;
+  justify-content:center;
+  padding:0;
   border-radius: 90px;
   cursor: pointer;
 }
@@ -357,6 +356,7 @@
     display: block;
   }
 }
+
 
 
 
