@@ -131,8 +131,8 @@
 
 .color-dot {
   position: absolute;
-  width:15vh;
-  padding:15%;
+  width:12vh;
+  padding:20%;
   border-radius: 100% / 100%;
   background-color: var(--swatch-color);
   opacity: 0;
@@ -355,6 +355,7 @@
     display: block;
   }
 }
+
 
 
 
