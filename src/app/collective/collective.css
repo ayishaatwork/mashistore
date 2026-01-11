@@ -1,0 +1,168 @@
+/* PAGE BASE */
+body.collective-theme {
+  background: #d8ef77;
+}
+
+.collective-page {
+  width: 100%;
+  overflow:hidden;
+  height:100%;
+}
+
+/* HERO */
+.collective-text{
+  width:50%;
+  padding-left:20px;
+}
+.collective-text p{
+  font-size:1.8vh;
+  padding-bottom:10px;
+  font-family:"MashiFontBold";
+}
+
+.collective-title {
+  width: 100%;
+  padding-bottom:50px;
+}
+
+.collective-intro {
+  max-width: 520px;
+  margin-top: 24px;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+/* BOOK SECTION */
+.book-section {
+  padding: 60px;
+  height:100vh;
+}
+
+.book-label {
+  display: inline-block;
+  padding: 4px 8px;
+  font-size:2rem;
+  margin-bottom: 24px;
+  font-family:"MashiFontBold";
+}
+
+/* ARTIST LAYOUT */
+.artist-layout {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 48px;
+  align-items: start;
+}
+
+/* LEFT ART */
+.artist-artwork img {
+  width:100%;
+  height: auto;
+  display: block;
+}
+
+/* RIGHT META */
+.artist-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.artist-name {
+  font-size: 2rem;
+  font-family:"MashiFontBold";
+}
+
+/* HAND ICON GRID */
+.hand-grid {
+  display: grid;
+  grid-template-columns: repeat(8,20px);
+  gap:20px;
+}
+
+.hand-icon {
+  width:auto;
+  height:25px;
+  color: red;
+}
+
+/* ARTIST PHOTO */
+.artist-photo {
+  width: 190px;
+  height: auto;
+  object-fit: cover;
+  padding-top:290px;
+}
+
+body.collective-theme .site-nav {
+  background: #d8ef77;
+}
+
+body.collective-theme .site-header {
+  background: #d8ef77;
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+  .collective-hero{
+    height:90vh;
+  }
+
+  .collective-title{
+    padding-bottom:20px;
+  }
+  .collective-hero,
+  .book-section {
+    padding:10px;
+  }
+
+  .artist-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .artist-meta {
+    margin-top: 24px;
+  }
+
+  .collective-text{
+    width:100%;
+    padding:0px;
+  }
+
+  .collective-text p{
+    font-size:12px;
+    font-family: "MashiFont";
+  }
+  .artist-name, .book-label{
+    font-family:"MashiFont";
+    font-size:20px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
