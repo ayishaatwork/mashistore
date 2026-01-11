@@ -17,15 +17,9 @@
 /* GRID LAYOUT */
 .checkout-layout {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 1fr 1fr;
   max-width:100%;
-  margin: 0 auto;
-  gap: 80px;
-}
-
-/* LEFT COLUMN */
-.checkout-left {
-  display: flex;
+  gap:3vh;
   align-items: flex-start;
 }
 
@@ -36,8 +30,7 @@
 
 /* RIGHT COLUMN */
 .checkout-right {
-  padding-left:190px;
-  max-width:85%;
+  width:39vw;
 }
 
 /* FORM */
@@ -208,6 +201,7 @@
     width:100%;
   }
 }
+
 
 
 
