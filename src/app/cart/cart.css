@@ -2,14 +2,8 @@
 /* CART PAGE STYLES */
 
 .cart-page {
-  height: calc(100vh - var(--nav-height));
+  height:auto;
   overflow: hidden;
-}
-
-.cart-root {
-  max-width: 980px;
-  margin: 0 auto;
-  padding: 8px;
 }
 
 .cart-empty {
@@ -123,7 +117,8 @@
 
 .cart-layout {
   display: grid;
-  grid-template-columns:1fr 800px;
+  grid-template-columns:1fr 1fr;
+  gap:3vh;
   height:100%;
 }
 
@@ -176,7 +171,7 @@
 .cart-right {
   position:relative;
   right: 0;
-  width: 800px;
+  width:40vw;
   height: calc(100vh - var(--nav-height));
   padding: 32px;
   padding-right:170px;
@@ -300,6 +295,7 @@
   font-size:12px;
 }
 }
+
 
 
 
