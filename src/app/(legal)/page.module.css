@@ -12,7 +12,6 @@
 
 /* LEFT — TITLE */
 .titleColumn {
-  padding-left:12px; /* ONLY left offset like design */
   align-self: flex-start;
 }
 
@@ -91,7 +90,7 @@
   }
 
   .titleColumn h1 span{
-    display:block;
+    display:inline;
   }
 
   .contentColumn {
@@ -115,7 +114,7 @@
   }
 
   .section h2 {
-  font-size:1.5rem
+  font-size:1.3rem
   }
 }
 /* ===============================
@@ -167,6 +166,7 @@
 .bold{
   font-weight:800;
 }
+
 
 
 
