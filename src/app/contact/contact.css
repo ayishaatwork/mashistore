@@ -3,12 +3,11 @@
 .contact-layout {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap:5vh;
   align-items: start;
 }
 
 .contact-title {
-  font-size:5vh;
+  font-size:6vh;
   font-weight: 500;
 }
 
@@ -195,6 +194,7 @@
   color: #000;
 }
 }
+
 
 
 
