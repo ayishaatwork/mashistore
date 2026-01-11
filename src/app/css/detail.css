@@ -328,7 +328,7 @@
 
   .product-details {
     padding-right: 0;
-    gap:5%;
+    gap:2vh;
     height:auto;
   }
   .product-description {
@@ -359,6 +359,7 @@
     display: block;
   }
 }
+
 
 
 
