@@ -120,6 +120,7 @@
   grid-template-columns:1fr 1fr;
   gap:3vh;
   height:100%;
+  align-items:flex-start;
 }
 
 .cart-title {
@@ -171,7 +172,7 @@
 .cart-right {
   position:relative;
   right: 0;
-  width:50vw;
+  width:39vw;
   height: calc(100vh - var(--nav-height));
   background: #fff;
   
@@ -293,6 +294,7 @@
   font-size:12px;
 }
 }
+
 
 
 
