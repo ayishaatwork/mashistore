@@ -286,10 +286,15 @@
   font-size:14px;
   margin-bottom:0px;
 }
+
+.order-row .item-detail-down{
+  dispay:block;
+}
 .checkout-note{
   font-size:12px;
 }
 }
+
 
 
 
