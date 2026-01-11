@@ -100,7 +100,7 @@
   color: #000;
 }
 .footer-label{
-  padding-right:2px;
+  padding-right:5px;
 }
 
 
@@ -133,10 +133,6 @@
 /* ========================= */
 
 @media (max-width: 768px) {
-  .contact-page {
-    padding: 40px 20px;
-  }
-
   .contact-layout {
     display: flex;
     flex-direction: column;
@@ -199,6 +195,7 @@
   color: #000;
 }
 }
+
 
 
 
