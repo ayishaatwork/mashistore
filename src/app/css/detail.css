@@ -302,7 +302,7 @@
   }
 
  .product-details-sub{
-    gap:2.5%;
+    gap:3.5%;
  }
 
  .product-detail-metasub{
@@ -328,7 +328,7 @@
 
   .product-details {
     padding-right: 0;
-    gap:3%;
+    gap:5%;
     height:auto;
   }
   .product-description {
@@ -359,6 +359,7 @@
     display: block;
   }
 }
+
 
 
 
