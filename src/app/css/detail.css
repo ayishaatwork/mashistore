@@ -293,7 +293,7 @@
  
   .product-layout {
     grid-template-columns:1fr;
-    gap:2vh;
+    gap:5%;
   }
 
   .product-media {
@@ -302,11 +302,11 @@
   }
 
  .product-details-sub{
-    gap:5.5vh
+    gap:10%vh
  }
 
  .product-detail-metasub{
-    gap:3.5vh
+    gap:5%;
  }
 
   .product-image {
@@ -359,6 +359,7 @@
     display: block;
   }
 }
+
 
 
 
