@@ -173,6 +173,7 @@
    
   .checkout-right {
     max-width:100%;
+    width:100%;
     padding-left:0;
   }
 
@@ -196,10 +197,11 @@
 }
 
 .pay-button {
-    font-size:2.5rem;
+    font-size:2rem;
     width:100%;
   }
 }
+
 
 
 
