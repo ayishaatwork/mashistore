@@ -122,7 +122,7 @@
 .color-swatch {
   position: relative;
   display: inline-flex;
-  align-items:flex-start;
+  align-items:left;
   justify-content: center;
   min-width: 90px;
   height: 40px;
@@ -302,11 +302,11 @@
   }
 
  .product-details-sub{
-    gap:3.5vh
+    gap:3vh
  }
 
  .product-details-metasub{
-    gap:2vh
+    gap:1.5vh
  }
 
   .product-image {
@@ -335,8 +335,9 @@
   }
 
   .add-to-cart-btn{
-     width:100%;
+     width:95%;
      font-size:4.5vh;
+     margin-left:0%;
   }
    
   .mobile-product-gallery {
@@ -356,6 +357,7 @@
     display: block;
   }
 }
+
 
 
 
