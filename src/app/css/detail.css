@@ -335,8 +335,8 @@
   }
 
   .add-to-cart-btn{
-     width:95%;
-     font-size:4.5vh;
+     width:100%;
+     font-size:5vh;
      margin-left:0%;
   }
    
@@ -357,6 +357,7 @@
     display: block;
   }
 }
+
 
 
 
