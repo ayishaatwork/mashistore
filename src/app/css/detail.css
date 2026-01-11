@@ -286,6 +286,9 @@
    ========================= */
 
 @media (max-width: 768px) {
+
+   .page-container{
+      padding-top:0vh;
  
   .product-layout {
     grid-template-columns:1fr;
@@ -307,10 +310,10 @@
    }
 
    .color-text{
-    font-size:1.5vh;
+    font-size:2vh;
    }
    .color-badges{
-    gap:2.5vh;
+    gap:1.5vh;
    }
 
   .product-details {
@@ -339,6 +342,7 @@
     display: block;
   }
 }
+
 
 
 
