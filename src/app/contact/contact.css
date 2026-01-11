@@ -83,21 +83,29 @@
 
 /* FOOTER */
 .contact-footer {
-  margin-top: 30px;
-  display: grid;
-  grid-template-columns:2fr 2.5fr 1fr;
-  align-items:start;
-  gap:0;
+  margin-top:30px;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
   font-size:14px;
   width: 100%;
 }
 
 .footer-item {
-  display:flex;
-  flex-direction:row;
+  flex: 0 0 auto;
   text-decoration: none;
   color: #000;
 }
+
+.footer-item:first-child {
+  text-align: left;
+}
+
+.footer-item:last-child {
+  text-align: right;
+}
+
 .footer-label{
   padding-right:5px;
 }
@@ -107,20 +115,6 @@
   text-decoration: none;
   color: #000;
   border: 1px solid transparent;
-}
-
-.contact-footer a:nth-child(1) {
-  justify-self: start;
-}
-
-/* Center */
-.contact-footer a:nth-child(2) {
-  justify-self: center;
-}
-
-/* Right (Instagram aligned to end) */
-.contact-footer a:nth-child(3) {
-  justify-self: end;
 }
 
 .contact-footer a:hover {
@@ -194,6 +188,7 @@
   color: #000;
 }
 }
+
 
 
 
