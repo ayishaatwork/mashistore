@@ -151,7 +151,7 @@
 
 .cart-item-image {
   width:300px;
-  height: auto;
+  height:auto;
 }
 
 .cart-item-details p {
@@ -171,10 +171,8 @@
 .cart-right {
   position:relative;
   right: 0;
-  width:40vw;
+  width:50vw;
   height: calc(100vh - var(--nav-height));
-  padding: 32px;
-  padding-right:170px;
   background: #fff;
   
 }
@@ -295,6 +293,7 @@
   font-size:12px;
 }
 }
+
 
 
 
