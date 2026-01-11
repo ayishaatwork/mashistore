@@ -101,6 +101,15 @@
   text-transform: uppercase;
 }
 
+.color-badges{
+   gap:3vh
+}
+
+.gsm-badges{
+   gap:2vh
+
+}
+
 /* =========================
    COLOR SWATCHES
    ========================= */
@@ -346,6 +355,7 @@
     display: block;
   }
 }
+
 
 
 
