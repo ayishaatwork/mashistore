@@ -7,7 +7,7 @@ export default function PaymentPage() {
       <aside className={styles.titleColumn}>
         <h1>
           Payment
-          <br />Information
+          <span className="title-sub">Information</span>
         </h1>
       </aside>
       {/* RIGHT */}
@@ -120,6 +120,7 @@ export default function PaymentPage() {
     </>
   );
 }
+
 
 
 
