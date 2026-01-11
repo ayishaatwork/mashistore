@@ -6,8 +6,8 @@ export default function TermsPage() {
       {/* LEFT */}
       <aside className={styles.titleColumn}>
         <h1>
-          Terms&
-          <br /> Conditions
+          Terms & 
+          <span> Conditions</span>
         </h1>
       </aside>
 
@@ -248,6 +248,7 @@ export default function TermsPage() {
     </>
   );
 }
+
 
 
 
