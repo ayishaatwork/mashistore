@@ -111,7 +111,7 @@
 }
 
 .product-info{
-   font-size:2.8vh;
+   font-size:2.9vh;
 }
 
 /* =========================
@@ -168,7 +168,7 @@
 .product-badge {
   padding: 0;
   border: none;
-  font-size:2.8vh;
+  font-size:2.9vh;
   cursor: pointer;
   font-weight: 400;
   transition: font-weight 0.15s ease, opacity 0.15s ease;
@@ -226,7 +226,7 @@
 .product-section-title {
   text-transform: uppercase;
   font-weight: 300;
-  font-size:3.2vh;
+  font-size:3.3vh;
 }
 
 .product-description {
@@ -359,6 +359,7 @@
     display: block;
   }
 }
+
 
 
 
