@@ -5,10 +5,7 @@ export default function PaymentPage() {
     <>
       {/* LEFT */}
       <aside className={styles.titleColumn}>
-        <h1>
-          Payment 
-          <span className="title-sub">Information</span>
-        </h1>
+        <h1>Payment <span>Information</span> </h1>
       </aside>
       {/* RIGHT */}
       <section className={styles.contentColumn}>
@@ -120,6 +117,7 @@ export default function PaymentPage() {
     </>
   );
 }
+
 
 
 
