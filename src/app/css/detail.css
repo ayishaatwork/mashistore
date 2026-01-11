@@ -315,7 +315,7 @@
   }
 
    .product-title, .product-price{
-    font-size:3.8vh
+    font-size:3.9vh
    }
 
    .color-text{
@@ -341,6 +341,11 @@
      margin-left:0%;
      margin-bottom:0px;
   }
+
+.product-meta-row {
+   gap:1.5vh
+
+}
    
   .mobile-product-gallery {
     display: flex;
@@ -359,6 +364,7 @@
     display: block;
   }
 }
+
 
 
 
