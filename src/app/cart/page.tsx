@@ -169,7 +169,7 @@ export default function CartPage() {
     className="order-row"
   >
     <span>
-      {item.name} Sketchbook   {item.color}   {item.gsm} × {item.quantity}
+      {item.name} Sketchbook   <span className="item-detail-down">{item.color}   {item.gsm} × {item.quantity} </span>
     </span>
     <span>Rs.{item.price * item.quantity}</span>
   </div>
@@ -225,6 +225,7 @@ export default function CartPage() {
       </>
   );
 }
+
 
 
 
