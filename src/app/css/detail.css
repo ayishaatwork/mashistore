@@ -102,11 +102,11 @@
 }
 
 .color-badges{
-   gap:3vh
+   gap:5vh
 }
 
 .gsm-badges{
-   gap:2vh
+   gap:3vh
 
 }
 
@@ -355,6 +355,7 @@
     display: block;
   }
 }
+
 
 
 
