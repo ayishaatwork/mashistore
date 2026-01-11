@@ -3,7 +3,7 @@
 .contact-layout {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap:23%; /* moved right column further right */
+  gap:10vh;
   align-items: start;
 }
 
@@ -195,6 +195,7 @@
   color: #000;
 }
 }
+
 
 
 
