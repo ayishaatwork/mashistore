@@ -78,7 +78,7 @@
 @media (max-width: 768px) {
   .legalGrid {
     grid-template-columns: 1fr;
-    gap: 32px;
+    gap:25px;
   }
 
   .titleColumn {
@@ -166,6 +166,7 @@
 .bold{
   font-weight:800;
 }
+
 
 
 
