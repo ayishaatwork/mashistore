@@ -239,7 +239,7 @@
 .product-sizes {
   display: grid;
   grid-template-columns: auto 1fr;
-  column-gap: 6px;
+  column-gap:6px;
   row-gap: 2px;
   font-size:2.6vh;
 }
@@ -302,11 +302,11 @@
   }
 
  .product-details-sub{
-    gap:5vh
+    gap:5.5vh
  }
 
  .product-detail-metasub{
-    gap:3vh
+    gap:3.5vh
  }
 
   .product-image {
@@ -328,7 +328,7 @@
 
   .product-details {
     padding-right: 0;
-    gap:3vh;
+    gap:3.5vh;
     height:auto;
   }
   .product-description {
@@ -358,6 +358,7 @@
     display: block;
   }
 }
+
 
 
 
