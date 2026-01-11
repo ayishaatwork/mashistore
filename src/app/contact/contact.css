@@ -169,12 +169,8 @@
     gap:60px;
   }
   
-  .contact-footer{
-    grid-template-columns:1fr 1fr 1fr;
-    gap:20px;
-  }
-  .footer-item{
-    flex-direction: column;
+  .footer-value {
+    display:block;
   }
 
   .contact-footer a:nth-child(2) {
@@ -188,6 +184,7 @@
   color: #000;
 }
 }
+
 
 
 
