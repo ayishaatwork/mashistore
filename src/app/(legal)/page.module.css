@@ -80,7 +80,6 @@
   }
 
   .titleColumn {
-    padding-left: 16px;
     position:static;
   }
 
@@ -89,22 +88,13 @@
   }
 
   .contentColumn {
-    padding-right: 16px;
-    padding-left: 16px;
     max-width: 100%;
     margin-right:0px;
-    font-size: 0.9rem;
   }
 }
 /* ===============================
    RIGHT SIDE TYPOGRAPHY CONTROL
    =============================== */
-
-/* Right side base text */
-.contentColumn {
-  font-size:14px;
-  line-height: 1.6;
-}
 
 .block {
   margin-bottom:15px;
@@ -151,6 +141,7 @@
 .bold{
   font-weight:800;
 }
+
 
 
 
