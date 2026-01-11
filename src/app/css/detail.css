@@ -56,7 +56,7 @@
 
 .product-details-sub{
   display:grid;
-  gap:3vh;
+  gap:5vh;
 }
 
 .product-detail-metasub{
@@ -355,6 +355,7 @@
     display: block;
   }
 }
+
 
 
 
