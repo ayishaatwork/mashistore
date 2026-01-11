@@ -92,13 +92,12 @@
 .product-meta-row {
   display: flex;
   flex-direction: column;
-  gap:100vh;
+  gap:3vh;
 }
 
 .product-badges {
   display: flex;
   flex-wrap: wrap;
-  gap:30vh;
   text-transform: uppercase;
 }
 
@@ -347,6 +346,7 @@
     display: block;
   }
 }
+
 
 
 
