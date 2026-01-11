@@ -84,7 +84,7 @@
   }
 
   .titleColumn h1 {
-    font-size:1.5rem;
+    font-size:1.9rem;
   }
 
   .contentColumn {
@@ -98,17 +98,17 @@
   margin-bottom:10px;
 }
   .section p{
-    font-size:0.50rem;
-    line-height:0.80rem;
+    font-size:1rem;
+    line-height:1.1rem;
   }
 
   .section ul{
-    font-size:0.50rem;
-    line-height:0.80rem;
+    font-size:1rem;
+    line-height:1.1rem;
   }
 
   .section h2 {
-  font-size:1rem
+  font-size:1.5rem
   }
 }
 /* ===============================
@@ -160,6 +160,7 @@
 .bold{
   font-weight:800;
 }
+
 
 
 
