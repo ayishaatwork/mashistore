@@ -315,19 +315,19 @@
   }
 
    .product-title, .product-price{
-    font-size:3vh
+    font-size:3.2vh
    }
 
    .color-text{
-   font-size:1.5vh;
+   font-size:2.3vh;
    }
    .color-badges{
-    gap:2.3vh;
+    gap:2.6vh;
    }
 
   .product-details {
     padding-right: 0;
-    gap:24px;
+    gap:15px;
     height:auto;
   }
   .product-description {
@@ -357,6 +357,7 @@
     display: block;
   }
 }
+
 
 
 
