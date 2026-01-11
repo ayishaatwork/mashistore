@@ -165,7 +165,7 @@ export default function ProductPage() {
           {/* COLOR + FORMAT OPTIONS */}
           {optionList.length > 0 && (
             <div className="product-meta-row">
-              <div className="product-badges">
+              <div className="product-badges color-badges">
                 {optionList.map((opt) => {
                   const colorKey = opt.name.toLowerCase().trim(); // for COLOR
                   const imageKey =
@@ -217,7 +217,7 @@ export default function ProductPage() {
           {/* GSM */}
           <div className="product-meta-row">
             {product.variants.length > 1 ? (
-              <div className="product-badges">
+              <div className="product-badges gsm-badges">
                 {product.variants.map((variant) => (
                   <span
                     key={variant.gsm}
@@ -307,6 +307,7 @@ export default function ProductPage() {
     </>
   );
 }
+
 
 
 
