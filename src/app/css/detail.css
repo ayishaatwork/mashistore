@@ -302,11 +302,11 @@
   }
 
  .product-details-sub{
-    gap:4vh;
+    gap:3vh;
  }
 
  .product-detail-metasub{
-    gap:3vh;
+    gap:2vh;
  }
 
   .product-image {
@@ -359,6 +359,7 @@
     display: block;
   }
 }
+
 
 
 
