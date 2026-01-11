@@ -315,7 +315,7 @@
   }
 
    .product-title, .product-price{
-    font-size:4vh
+    font-size:3.5vh
    }
 
    .color-text{
@@ -359,6 +359,7 @@
     display: block;
   }
 }
+
 
 
 
