@@ -6,8 +6,8 @@ export default function ShippingPage() {
       {/* LEFT */}
       <aside className={styles.titleColumn}>
         <h1>
-          Shipping
-          <br />& Returns
+          Shipping 
+          <span>& Returns</span>
         </h1>
       </aside>
 
@@ -129,6 +129,7 @@ export default function ShippingPage() {
     </>
   );
 }
+
 
 
 
