@@ -203,12 +203,12 @@
 }
 
 .checkout-btn {
-  width:90%;
-  height:130px;
-  border-radius:520px /130px;
+  width:95%;
+  border-radius:100% /100%;
+  padding:5%;
   border: 1.5px solid #000;
   background: transparent;
-  font-size:3.5rem;
+  font-size:6.5vh;
   margin:20px;
   cursor: pointer;
   color:#000;
@@ -293,6 +293,7 @@
   font-size:12px;
 }
 }
+
 
 
 
