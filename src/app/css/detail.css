@@ -290,9 +290,10 @@
   .product-page{
     padding:0;
   }
+   
   .product-layout {
-    grid-template-columns: 1fr;
-    gap: 32px;
+    grid-template-columns:1fr;
+    gap:32px;
     padding: 10px;
   }
 
@@ -308,40 +309,13 @@
 
   .product-details {
     padding-right: 0;
-    gap: 24px;
+    gap:24px;
     height:auto;
   }
-
-  .product-title,
-  .product-price {
-    font-size: 1.3rem;
-  }
-
-  .product-meta-row {
-    gap: 10px;
-    font-size: 12px;
-  }
-
-  .product-badge {
-    font-size: 16px;
-  }
-
-   .product-info{
-     font-size:16px;
-   }
-
   .product-description {
-    font-size: 14px;
     padding-right:0px;
   }
-
-  .add-to-cart-btn {
-    width: 100%;
-    height: 96px;
-    font-size: 2.5rem;
-    border-radius: 500px / 150px;
-  }
-
+   
   .mobile-product-gallery {
     display: flex;
     flex-direction: column;
@@ -359,6 +333,7 @@
     display: block;
   }
 }
+
 
 
 
