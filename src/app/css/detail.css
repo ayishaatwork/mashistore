@@ -302,11 +302,11 @@
   }
 
  .product-details-sub{
-    gap:3vh
+    gap:4.5vh
  }
 
  .product-detail-metasub{
-    gap:1.5vh
+    gap:2.5vh
  }
 
   .product-image {
@@ -315,7 +315,7 @@
   }
 
    .product-title, .product-price{
-    font-size:3.4vh
+    font-size:4vh
    }
 
    .color-text{
@@ -358,6 +358,7 @@
     display: block;
   }
 }
+
 
 
 
