@@ -49,19 +49,19 @@
 .product-details {
   display: flex;
   flex-direction: column;
-  gap: 28px;
+  gap:2vh;
   justify-content: space-between;
   padding-right: 100px;
 }
 
 .product-details-sub{
   display:grid;
-  gap:50px
+  gap:3vh;
 }
 
 .product-detail-metasub{
   display:grid;
-  gap:25px
+  gap:3vh;
 }
 
 /* =========================
@@ -92,13 +92,13 @@
 .product-meta-row {
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap:100vh;
 }
 
 .product-badges {
   display: flex;
   flex-wrap: wrap;
-  gap: 30px;
+  gap:30vh;
   text-transform: uppercase;
 }
 
@@ -347,6 +347,7 @@
     display: block;
   }
 }
+
 
 
 
