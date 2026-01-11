@@ -302,7 +302,7 @@
   }
 
  .product-details-sub{
-    gap:3.5%vh
+    gap:3%vh
  }
 
  .product-detail-metasub{
@@ -359,6 +359,7 @@
     display: block;
   }
 }
+
 
 
 
