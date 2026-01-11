@@ -234,7 +234,6 @@
     height: auto;
     overflow: visible;
   }
-
   .cart-layout {
     grid-template-columns: 1fr;
     height: auto;
@@ -256,7 +255,11 @@
   }
 
   .cart-item-image {
-    width: 190px;
+    width:150px;
+  }
+
+  .cart-item{
+    gap:2vw;
   }
 
   .checkout-btn {
@@ -283,7 +286,7 @@
   margin:6px 0px;
 }
 .cart-left .cart-title{
-  font-size:1.8rem;
+  font-size:1.5rem;
 }
 .order-row, .order-subtotal{
   font-size:14px;
@@ -293,6 +296,7 @@
   font-size:12px;
 }
 }
+
 
 
 
