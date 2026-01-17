@@ -321,6 +321,11 @@
     gap:50px;
    }
 
+  .color-dot {
+  width:100px;
+  padding:50px;
+}
+
    .product-sizes{
       font-size:16px;
    }
@@ -370,6 +375,7 @@
     display: block;
   }
 }
+
 
 
 
