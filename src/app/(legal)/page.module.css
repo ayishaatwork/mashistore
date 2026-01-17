@@ -76,6 +76,10 @@
 
 /* MOBILE — SAME ALIGNMENT, STACKED */
 @media (max-width: 768px) {
+
+  .legal-page{
+    padding-top:20px;
+   }
   .legalGrid {
     grid-template-columns: 1fr;
     gap:25px;
@@ -167,6 +171,7 @@
 .bold{
   font-weight:800;
 }
+
 
 
 
