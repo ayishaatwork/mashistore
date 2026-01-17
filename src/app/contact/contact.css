@@ -168,6 +168,9 @@
     font-size:10px;
     gap:60px;
   }
+  .footer-item{
+     vertical-align:center;
+  }
   
   .footer-value {
     display:block;
@@ -184,6 +187,7 @@
   color: #000;
 }
 }
+
 
 
 
