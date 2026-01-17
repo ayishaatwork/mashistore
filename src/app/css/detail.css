@@ -302,11 +302,11 @@
   }
 
  .product-details-sub{
-    gap:30px;
+    gap:20px;
  }
 
  .product-detail-metasub{
-    gap:15px;
+    gap:10px;
  }
 
    .product-title, .product-price{
@@ -322,7 +322,7 @@
    }
 
   .color-dot {
-  width:100px;
+  width:90px;
   padding:20px;
 }
 
@@ -375,6 +375,7 @@
     display: block;
   }
 }
+
 
 
 
