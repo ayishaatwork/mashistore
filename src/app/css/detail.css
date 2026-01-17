@@ -293,7 +293,7 @@
  
   .product-layout {
     grid-template-columns:1fr;
-    gap:32px;
+    gap:10px;
   }
 
   .product-media {
@@ -302,11 +302,11 @@
   }
 
  .product-details-sub{
-    gap:2vh;
+    gap:50px;
  }
 
  .product-detail-metasub{
-    gap:1vh;
+    gap:25px;
  }
 
    .product-title, .product-price{
@@ -370,6 +370,7 @@
     display: block;
   }
 }
+
 
 
 
