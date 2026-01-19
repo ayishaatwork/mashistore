@@ -86,7 +86,7 @@
   margin-top:30px;
   display:flex;
   justify-content: space-between;
-  align-items:flex-start;
+  align-items:center;
   position: relative;
   font-size:14px;
   width: 100%;
@@ -167,6 +167,7 @@
     margin-top:32px;
     font-size:10px;
     gap:60px;
+    align-items:flex-start;
   }
   .footer-item{
     align-item:flex-start;
@@ -187,6 +188,7 @@
   color: #000;
 }
 }
+
 
 
 
