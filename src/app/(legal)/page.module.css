@@ -78,7 +78,7 @@
 @media (max-width: 768px) {
 
   .legalPage{
-    padding-top:50px;
+    padding-top:15px;
    }
   .legalGrid {
     grid-template-columns: 1fr;
@@ -171,6 +171,7 @@
 .bold{
   font-weight:800;
 }
+
 
 
 
